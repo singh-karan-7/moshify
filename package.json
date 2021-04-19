@@ -1,7 +1,6 @@
 {
   "name": "Moshify",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -12,6 +11,16 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "parcel-bundler": "^1.12.5"
-  }
+    "parcel-bundler": "^1.12.4"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/singh-karan-7/moshify.git"
+  },
+  "bugs": {
+    "url": "https://github.com/singh-karan-7/moshify/issues"
+  },
+  "homepage": "https://github.com/singh-karan-7/moshify#readme",
+  "description": ""
 }
